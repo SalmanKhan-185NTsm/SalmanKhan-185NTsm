@@ -3,6 +3,8 @@
 
 **SalmanKhan-185NTsm/SalmanKhan-185NTsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![The Golden Ticket](https://github.com/SalmanKhan-185NTsm/the-golden-ticket/blob/master/screenshots/goldenTicket.PNG)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
