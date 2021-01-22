@@ -1,10 +1,6 @@
-# Hi there 👋
-
-
-
-
 ![The Golden Ticket](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/SalmanKhan-185NTsm-patch-1/Adobe_Post_20210114_2151510.03674577280589508.png)
 
+# Doing something awesome 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
