@@ -1,14 +1,22 @@
-![The Golden Ticket](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/SalmanKhan-185NTsm-patch-1/Adobe_Post_20210114_2151510.03674577280589508.png)
+# 👋  Start: Here
 
-# Doing something awesome 👋
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+![Profile banner](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/SalmanKhan-185NTsm-patch-1/Adobe_Post_20210114_2151510.03674577280589508.png)
+
+ 
+# Converting Coffee ☕ to High Quality Code 📔
+
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning on how to be better developer
+- 💬 Ask me about Tech and I shall answer. 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: It's Sal - ma - nn and not Salmon 🐠
+- ⚡ Fun fact: Developer's are the only beings close to Magic ( No kidding )
 
+# Open Source Projects
+
+- List of open source projects
+- List of open source projects
+- List of open source projects
+- List of open source projects
+- List of open source projects
