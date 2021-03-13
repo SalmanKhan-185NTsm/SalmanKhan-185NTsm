@@ -19,19 +19,25 @@
 - projects 4
 
 ## Why I Code 
- It all started when I started my Grade School,  
+ It all started when I started my Grade School, 
+ The First Software ever used by me was microsoft paint, being the curious type microsoft paint sparked interest towards software as a user, and later during my Pre-Univercity  Wrote my first hello World Code in C Programming which was the turning point in my life which made go towards Programming.  
+, 
 
 ## Salman as a Class [SAAS]
 ```JavaScript
   class Salman {
+  
     name = 'Salman Khan';
     handle = "NOTsamtheman";
     github = "SalmanKhan-185NTsm";
     startedToCode = new Date("2015-05-01")
+  
     development = () =>{
     }
+    
     ableToCode = () => {
     }
+    
     getSkills = () => {
      return ["JavaScript","React","Redux","CSS","PHP","HTML"];
     }
