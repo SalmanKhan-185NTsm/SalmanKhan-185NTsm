@@ -13,26 +13,31 @@
 ## Open Source Projects
 
 - Morpheus
-- List of open source projects
-- List of open source projects
-- List of open source projects
-- List of open source projects
+- projects 1
+- projects 2
+- projects 3
+- projects 4
 
 ## Why I Code 
  It all started when I started my Grade School,  
 
 ## Salman as a Class [SAAS]
-`
+```JavaScript
   class Salman {
-    private name = 'Salman Khan';
-    private handle = "NOTsamtheman";
+    name = 'Salman Khan';
+    handle = "NOTsamtheman";
+    github = "SalmanKhan-185NTsm";
+    startedToCode = new Date("2015-05-01")
+    development = () =>{
+    }
+    ableToCode = () => {
+    }
+    getSkills = () => {
+     return ["JavaScript","React","Redux","CSS","PHP","HTML"];
+    }
+    
   }
-`
+```
 ## My Famous Quote
 
-> Nothing is True, Everything is permitted, we serve in the dark to protect  the light 
-```JavaScript
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+> Nothing is True, Everything is permitted, we serve in the dark to protect  the light - Ezio Auditore Da France
