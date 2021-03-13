@@ -41,7 +41,7 @@
 ```
 ## My Famous Quote
 
-> Nothing is True, Everything is permitted, we serve in the dark to protect  the light - Ezio Auditore Da France
+> “Where other men blindly follow the truth, Remember, nothing is true. Where other men are limited by morality or law, Remember, everything is permitted. We work in the dark to serve the light.”
 
 ## History In Motion
 It all started when I started Grade School, The First Software ever used by me was Microsoft paint, being the curious type Microsoft paint sparked my interest in software as a user, and later during my Pre-University Wrote my first "Hello World" Code in C Programming which was the turning point in my life which made go towards Programming. Fast forward 4 years completed two major projects for my undergrads and after completing my undergrads. it gave me the tools I need to communicate with the computer whose computing power is faster than that of a Human Mind.
