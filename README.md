@@ -19,9 +19,7 @@
 - projects 4
 
 ## History In Motion
- It all started when I started my Grade School, 
- The First Software ever used by me was microsoft paint, being the curious type microsoft paint sparked interest towards software as a user, and later during my Pre-Univercity  Wrote my first hello World Code in C Programming which was the turning point in my life which made go towards Programming. Fastfoward 4 years completed two major projects for my under grads and after completing my under grads. it gave me the tools i need to communicate with the computer whose computing power is faster than that of a Human Mind
-, 
+It all started when I started Grade School, The First Software ever used by me was Microsoft paint, being the curious type Microsoft paint sparked my interest in software as a user, and later during my Pre-University Wrote my first "Hello World" Code in C Programming which was the turning point in my life which made go towards Programming. Fast forward 4 years completed two major projects for my undergrads and after completing my undergrads. it gave me the tools I need to communicate with the computer whose computing power is faster than that of a Human Mind.
 
 ## Salman as a Class [SAAS]
 ```JavaScript
