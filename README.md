@@ -18,9 +18,9 @@
 - projects 3
 - projects 4
 
-## Why I Code 
+## History In Motion
  It all started when I started my Grade School, 
- The First Software ever used by me was microsoft paint, being the curious type microsoft paint sparked interest towards software as a user, and later during my Pre-Univercity  Wrote my first hello World Code in C Programming which was the turning point in my life which made go towards Programming.  
+ The First Software ever used by me was microsoft paint, being the curious type microsoft paint sparked interest towards software as a user, and later during my Pre-Univercity  Wrote my first hello World Code in C Programming which was the turning point in my life which made go towards Programming. Fastfoward 4 years completed two major projects for my under grads and after completing my under grads. it gave me the tools i need to communicate with the computer whose computing power is faster than that of a Human Mind
 , 
 
 ## Salman as a Class [SAAS]
