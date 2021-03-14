@@ -9,7 +9,7 @@
 - 😄 Pronouns: It's Sal - ma - nn 📢
 - ⚡ Fun fact: Developer's are the only beings close to Magic ( No kidding )
 
-## Salman as a Class
+## Salman as a Class 😄
 ```JavaScript
   class Salman {
   
