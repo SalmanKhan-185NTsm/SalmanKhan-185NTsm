@@ -6,17 +6,8 @@
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning on how to be better developer
 - 💬 Ask me about Tech and I shall answer. 
-- 📫 How to reach me: ...
-- 😄 Pronouns: It's Sal - ma - nn and not Salmon 🐠
+- 😄 Pronouns: It's Sal - ma - nn 📢
 - ⚡ Fun fact: Developer's are the only beings close to Magic ( No kidding )
-
-## Open Source Projects
-
-- Morpheus
-- projects 1
-- projects 2
-- projects 3
-- projects 4
 
 ## Salman as a Class [SAAS]
 ```JavaScript
