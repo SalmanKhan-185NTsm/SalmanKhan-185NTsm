@@ -6,26 +6,19 @@
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning on how to be better developer
 - 💬 Ask me about Tech and I shall answer. 
-- 😄 Pronouns: It's Sal - ma - nn 📢
+- 😄 Pronouns: The Dev.
 - ⚡ Fun fact: Developer's are the only beings close to Magic ( No kidding )
 
 ## Salman as a Class 😄
 ```JavaScript
-  class Salman {
+  class Salman implements Human,ComputerScience{
   
     name = 'Salman Khan';
     handle = "NOTsamtheman";
     github = "SalmanKhan-185NTsm";
-    startedToCode = new Date("2015-05-01")
-  
-    development = () =>{
-    }
-    
-    ableToCode = () => {
-    }
-    
+    startedToCode = new Date("2015-05-01")  
     getSkills = () => {
-     return ["JavaScript","React","Redux","CSS","PHP","HTML"];
+     return ["JavaScript","React","Redux","CSS","PHP","HTML",...];
     }
     
   }
