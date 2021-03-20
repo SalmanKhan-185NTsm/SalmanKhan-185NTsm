@@ -1,4 +1,4 @@
-![Profile banner](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/SalmanKhan-185NTsm-patch-1/Adobe_Post_20210114_2151510.03674577280589508.png)
+![Profile banner](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/SalmanKhan-185NTsm/Adobe_Post_20210114_2151510.03674577280589508.png)
 
 
 ### ``` Converting Coffee ☕ to High Quality Code 📔 Running at θ(1) ```
