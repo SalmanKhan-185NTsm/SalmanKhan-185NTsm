@@ -1,4 +1,4 @@
-![Profile banner](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/SalmanKhan-185NTsm/Adobe_Post_20210114_2151510.03674577280589508.png)
+![Profile banner](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/master/Adobe_Post_20210114_2151510.03674577280589508.png)
 
 
 ### ``` Converting Coffee ☕ to High Quality Code 📔 Running at θ(1) ```
@@ -17,7 +17,7 @@
     handle = "NOTsamtheman";
     github = "SalmanKhan-185NTsm";
     startedToCode = new Date("2015-05-01")  
-    getSkills = () => {
+    getTechStack = () => {
      return ["JavaScript","React","Redux","CSS","PHP","HTML",...];
     }
     
