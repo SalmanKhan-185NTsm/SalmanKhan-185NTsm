@@ -11,8 +11,8 @@
 
 ## Salman as a Class 😄
 ```JavaScript
-  class Salman implements Human,ComputerScience{
-  
+  class Salman implements Human,ComputerScience {
+
     name = 'Salman Khan';
     handle = "NOTsamtheman";
     github = "SalmanKhan-185NTsm";
