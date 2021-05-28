@@ -1,7 +1,7 @@
 ![Profile banner](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/master/Adobe_Post_20210114_2151510.03674577280589508.png)
+## Always ToDo 
+### ``` Converting Coffee ☕ to High Quality Code 📔 Running at θ(1)  ```
 
-## Always ToDo
-### ``` Converting Coffee ☕ to High Quality Code 📔 Running at θ(1) ```
 ## Present Stuff 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning on how to be better developer
@@ -9,7 +9,7 @@
 - 😄 Pronouns: The Dev.
 - ⚡ Fun fact: Developer's are the only beings close to Magic ( No kidding )
 
-## Salman as a Class 😄
+## Salman as a Class 😄:electron:
 ```JavaScript
   class Salman implements Human,ComputerScience {
 
