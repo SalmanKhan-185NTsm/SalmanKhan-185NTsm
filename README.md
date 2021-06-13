@@ -3,9 +3,8 @@
 ### ``` Converting Coffee ☕ to High Quality Code 📔 Running at θ(1)  ```
 
 ## Present Stuff 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning on how to be better developer
-- 💬 Ask me about Tech and I shall answer. 
+- 🔭 I’m currently working on React, JavaScript and Flutter.
+- 🌱 I’m currently learning on how to be better developer.
 - 😄 Pronouns: The Dev.
 - ⚡ Fun fact: Developer's are the only beings close to Magic ( No kidding )
 
