@@ -4,7 +4,7 @@
 
 ## ◼️ Present Stuff 
 - 🔭 I’m currently working on :electron:  React,  JavaScript and Flutter. 
-- 🌱 I’m currently learning on how to be better developer.
+- 🌱 I’m currently learning on how to be a better developer.
 - 😄 Pronouns: The Dev.
 - ⚡ Fun fact: Developer's are the only beings close to Magic ( No kidding )
 
