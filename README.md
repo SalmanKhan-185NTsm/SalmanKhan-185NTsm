@@ -1,16 +1,25 @@
-### Hi there 👋
+![Profile banner](https://github.com/SalmanKhan-185NTsm/SalmanKhan-185NTsm/blob/master/Adobe_Post_20210114_2151510.03674577280589508.png)
+## ◼️ Always ToDo 
+### ``` Converting Coffee ☕ to High Quality Code 📔 Running at θ(1)  ```
 
-<!--
-**SalmanKhan-185NTsm/SalmanKhan-185NTsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ◼️ Present Stuff 
+- 🔭 I’m currently working on :electron:  React,  JavaScript and Flutter. 
+- 🌱 I’m currently learning on how to be a better developer.
+- 😄 Pronouns: The Dev.
+- ⚡ Fun fact: Developer's are the only beings close to Magic ( No kidding )
 
-Here are some ideas to get you started:
+## ◼️ Salman as a Class 😄
+```JavaScript
+  class Salman implements Human,ComputerScience {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    name = 'Salman Khan';
+    handle = "NOTsamtheman";
+    github = "SalmanKhan-185NTsm";
+    startedToCode = new Date("2015-05-01")  
+    getTechStack = () => {
+     return ["JavaScript","React","Redux","CSS","PHP","HTML",...];
+    }
+    
+  }
+```
+
